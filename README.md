@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ### My stack:
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,git,github,vscode,vite,webpack" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,git,github,vscode,parcel,vite,webpack" />
   </a>
 </p>
