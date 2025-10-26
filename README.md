@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### My stack:
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,svg,js,react,emotion,git,github,vscode,vite,webpack,firebase" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,svg,js,react,emotion,git,github,vscode,vite,webpack,firebase,python,django,flask,aws,heroku,bootstrap,jest,docker,postgres" />
   </a>
 </p>
 
